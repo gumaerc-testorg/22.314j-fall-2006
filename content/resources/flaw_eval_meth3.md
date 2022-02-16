@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/e064a388162205e7b768949b70bd2cf3_flaw_eval_meth3.pdf
+file: /media/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/e064a388162205e7b768949b70bd2cf3_flaw_eval_meth3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: flaw_eval_meth3.pdf
 uid: e064a388-1622-05e7-b768-949b70bd2cf3
