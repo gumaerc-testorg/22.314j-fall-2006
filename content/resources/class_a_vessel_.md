@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf51c2a3-90a2-eb50-e2f6-d37940de3c03
 resourcetype: Document
 title: class_a_vessel_.pdf
 uid: 8dcd1206-b8f7-7723-ae3c-6441b7e79b9d

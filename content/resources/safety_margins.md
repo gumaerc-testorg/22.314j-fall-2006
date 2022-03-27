@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 08df385f-028e-0bf0-d8cc-9705d0ed8484
 resourcetype: Document
 title: safety_margins.pdf
 uid: 019534b8-cccd-e1da-1e59-d79c4cbe1359

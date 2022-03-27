@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 08df385f-028e-0bf0-d8cc-9705d0ed8484
 resourcetype: Document
 title: ellis.pdf
 uid: ba808ae4-5977-6f4c-1011-99914101900b

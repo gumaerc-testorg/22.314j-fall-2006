@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 08df385f-028e-0bf0-d8cc-9705d0ed8484
 resourcetype: Document
 title: carpenter.pdf
 uid: 736d80e4-e6bf-84e4-0c9d-c3cff49be3fb

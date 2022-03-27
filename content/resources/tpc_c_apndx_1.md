@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 469f5413-4a85-70d0-db4c-c0b320e2747a
 resourcetype: Document
 title: tpc_c_apndx_1.pdf
 uid: 18c48dd6-6fe3-5e6a-eeda-0dd3c82bdd6e

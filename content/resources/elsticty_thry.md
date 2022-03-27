@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 469f5413-4a85-70d0-db4c-c0b320e2747a
 resourcetype: Document
 title: elsticty_thry.pdf
 uid: 81956f02-ee79-ee95-0880-8bb525d41231

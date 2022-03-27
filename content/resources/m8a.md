@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 469f5413-4a85-70d0-db4c-c0b320e2747a
 resourcetype: Document
 title: m8a.pdf
 uid: b7280300-1203-3f91-3db7-9a5b41797572

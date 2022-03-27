@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 469f5413-4a85-70d0-db4c-c0b320e2747a
 resourcetype: Document
 title: m5a.pdf
 uid: cc8666dd-bff3-1fb4-1aad-6956d0847db8
