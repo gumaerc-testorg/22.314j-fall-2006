@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student term paper.
-file: /media/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/f159757a0c46dd98df781a6101c64ff2_hu.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/f159757a0c46dd98df781a6101c64ff2_hu.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hu.pdf
 uid: f159757a-0c46-dd98-df78-1a6101c64ff2
 ---
+Sample student term paper.
+

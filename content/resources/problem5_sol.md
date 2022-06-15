@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to assigned homework problems.
-file: /media/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/4dd50cd6f93f90cb7d936b307cb76bb8_problem5_sol.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/4dd50cd6f93f90cb7d936b307cb76bb8_problem5_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: problem5_sol.pdf
 uid: 4dd50cd6-f93f-90cb-7d93-6b307cb76bb8
 ---
+Solutions to assigned homework problems.
+

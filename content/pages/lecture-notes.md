@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This resource contains the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +10,7 @@ uid: cf51c2a3-90a2-eb50-e2f6-d37940de3c03
 
 Notes by J. E. Meyer were internal documents and may not be available outside MIT.
 
-Handouts summary ([PDF]({{< baseurl >}}/resources/handouts))
+Handouts summary ({{% resource_link ca127d44-caeb-83fd-84fc-1794ca7a7933 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
