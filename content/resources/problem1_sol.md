@@ -5,6 +5,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problem1_sol.pdf
 uid: 264a7e40-2908-1d5d-8e55-bcec9ccd76b3
 ---
 Solutions to assigned homework problems.
-

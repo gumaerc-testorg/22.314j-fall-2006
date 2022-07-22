@@ -5,6 +5,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ellis.pdf
 uid: ba808ae4-5977-6f4c-1011-99914101900b
 ---
 Sample student term paper.
-

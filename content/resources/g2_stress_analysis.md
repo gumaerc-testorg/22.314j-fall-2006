@@ -5,6 +5,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: g2_stress_analysis.pdf
 uid: a155fba2-5d69-bf5b-5c98-36337ba8a18f
 ---
 This resource contains notes on shells of revolution.
-

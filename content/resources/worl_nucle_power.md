@@ -5,6 +5,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: worl_nucle_power.pdf
 uid: bc57d512-28cc-bf4a-969b-1040cf3cc5e3
 ---
 This resource contaions notes on world nuclear power reacter status.
-

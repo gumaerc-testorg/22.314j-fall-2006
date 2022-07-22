@@ -5,6 +5,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: r1_radiation.pdf
 uid: 51773510-a23d-0117-e1f8-35f48ecc5bae
 ---
 This resource contains text on fundamental radiation effects on materials.
-

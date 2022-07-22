@@ -6,6 +6,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: r2_fatique_crack.pdf
 uid: 778fede9-dec2-7605-e234-87a35c3986f3
 ---
 This resource contains text on fatigue crack propagation in types 304 and 308 stainless steel at elevated temperatures.
-

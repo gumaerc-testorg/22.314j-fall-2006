@@ -6,6 +6,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sa_1_seis_analys.pdf
 uid: 538184df-838f-77ab-ed62-49595a347bc8
 ---
 This resource contaions notes on regulations and standards for design of nuclear facilities.
-

@@ -6,6 +6,7 @@ file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: asme_boiler.pdf
 uid: c764fcd4-b915-ae3c-df36-8fcbafa1edba
 ---
 This resource contains text on criteria of the asme boiler and pressure vessel code.
-
