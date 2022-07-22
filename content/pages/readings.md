@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 469f5413-4a85-70d0-db4c-c0b320e2747a
 ---
@@ -8,7 +12,7 @@ This page presents the assigned readings for some of the lectures, and supplemen
 
 Notes by T. Jaeger and J. E. Meyer were internal documents and may not be available outside MIT.
 
-Basic Relationships in Elasticity Theory ([PDF]({{< baseurl >}}/resources/elsticty_thry))
+Basic Relationships in Elasticity Theory ({{% resource_link 81956f02-ee79-ee95-0880-8bb525d41231 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -68,7 +72,7 @@ Meyer, J. E. "Structural Design Notes."
 
 Collins, chapter 4.
 
-Wolf, Lothar, Mujid S. Kazimi, and Neil E. Todreas. "Introduction to Structural Mechanics." ([PDF]({{< baseurl >}}/resources/l4_2))
+Wolf, Lothar, Mujid S. Kazimi, and Neil E. Todreas. "Introduction to Structural Mechanics." ({{% resource_link 137e6469-e37e-9d34-7b7b-3b69292da2f3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -138,7 +142,7 @@ Design Limits
 
 Collins, chapters 6.8 to 6.11.
 
-Wolf, Lothar, Mujid S. Kazimi, and E. Neil. Todreas. "Introduction to Structural Mechanics." ([PDF]({{< baseurl >}}/resources/l4))
+Wolf, Lothar, Mujid S. Kazimi, and E. Neil. Todreas. "Introduction to Structural Mechanics." ({{% resource_link 18f67f43-9608-ed10-f148-41ad2e034d4e "PDF" %}})
 
 
 {{< tdclose >}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of instructors,teaching assistants,text,references
+  and grading system.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 29a58b44-08f9-6536-31e0-da8786ceb840
 ---
@@ -14,14 +18,14 @@ Overview
 
 This course covers the structural components in nuclear power plant systems, their functional purposes, operating conditions, and mechanical/structural design requirements. It combines mechanics techniques with models of material behavior to determine adequacy of component design. Considerations include mechanical loading, brittle fracture, inelastic behavior, elevated temperatures, neutron irradiation, vibrations and seismic effects.
 
-Course Outline ([PDF]({{< baseurl >}}/resources/outline))
+Course Outline ({{% resource_link d15e7fb4-b7ee-bacc-f999-9fd2d1fd5958 "PDF" %}})
 
 Textbooks
 ---------
 
 ### Required
 
-MIT Notes (See the [Readings]({{< baseurl >}}/pages/readings) section)
+MIT Notes (See the {{% resource_link 469f5413-4a85-70d0-db4c-c0b320e2747a "Readings" %}} section)
 
 ### Recommended
 
