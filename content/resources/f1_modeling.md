@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains text on modeling of the structural behavior of
   fuel elements and assemblies.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ebe6d9e712502f7ca27f1857bb5947ec_f1_modeling.pdf
+file_size: 10048522
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

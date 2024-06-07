@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains text on focus X5 and HTP X5.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/7f1fd00631c2af1e8fd1ad2b6eab06a2_f4_service_fuel.pdf
+file_size: 431112
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
