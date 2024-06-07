@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about Sructural Design Notes_C.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/18c48dd66fe35e6aeeda0dd3c82bdd6e_tpc_c_apndx_1.pdf
+file_size: 515971
 file_type: application/pdf
 learning_resource_types:
 - Readings
