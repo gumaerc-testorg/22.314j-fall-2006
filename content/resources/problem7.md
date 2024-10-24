@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a79dcfc900e6a75809b3a6351e914319_problem7.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a79dcfc900e6a75809b3a6351e914319_problem7.pdf
 file_size: 100952
 file_type: application/pdf
 learning_resource_types:
