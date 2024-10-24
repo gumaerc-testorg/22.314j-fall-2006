@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains text and table on cases of asme boiler and pressure
   vessel code.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/c5f4e77689a80b0a67fdbc265c990b5f_addendum_topic_e.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/c5f4e77689a80b0a67fdbc265c990b5f_addendum_topic_e.pdf
 file_size: 2376331
 file_type: application/pdf
 learning_resource_types:
