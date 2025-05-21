@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to assigned homework problems.
-file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/4dd50cd6f93f90cb7d936b307cb76bb8_problem5_sol.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/4dd50cd6f93f90cb7d936b307cb76bb8_problem5_sol.pdf
 file_size: 455405
 file_type: application/pdf
 learning_resource_types:
