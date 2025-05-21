@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains text on elasticity theory.
-file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/53529391f2573e6f14d482f64e12516a_g3_elasticity_theory.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/53529391f2573e6f14d482f64e12516a_g3_elasticity_theory.pdf
 file_size: 1207253
 file_type: application/pdf
 learning_resource_types:

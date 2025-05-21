@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes.
-file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/81956f02ee79ee9508808bb525d41231_elsticty_thry.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/81956f02ee79ee9508808bb525d41231_elsticty_thry.pdf
 file_size: 553747
 file_type: application/pdf
 learning_resource_types:
