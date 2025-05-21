@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contaions notes on world nuclear power reacter status.
-file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/bc57d51228ccbf4a969b1040cf3cc5e3_worl_nucle_power.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/bc57d51228ccbf4a969b1040cf3cc5e3_worl_nucle_power.pdf
 file_size: 55448
 file_type: application/pdf
 learning_resource_types:

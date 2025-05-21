@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/019534b8cccde1da1e59d79c4cbe1359_safety_margins.pdf
+file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/019534b8cccde1da1e59d79c4cbe1359_safety_margins.pdf
 file_size: 2670957
 file_type: application/pdf
 learning_resource_types:
