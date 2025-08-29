@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a list of lecture handouts.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ca127d44caeb83fd84fc1794ca7a7933_handouts.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ca127d44caeb83fd84fc1794ca7a7933_handouts.pdf
 file_size: 271799
 file_type: application/pdf
 learning_resource_types:
