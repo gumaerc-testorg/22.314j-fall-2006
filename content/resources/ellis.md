@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student term paper.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ba808ae459776f4c101199914101900b_ellis.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ba808ae459776f4c101199914101900b_ellis.pdf
 file_size: 195764
 file_type: application/pdf
 learning_resource_types:

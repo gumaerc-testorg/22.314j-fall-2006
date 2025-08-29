@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contaions review of tensile behaviour of neutron-irradiated
   martensitic steels.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/003da84e900bf41db2baffb251570d7f_r5_tensile_behav.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/003da84e900bf41db2baffb251570d7f_r5_tensile_behav.pdf
 file_size: 2047852
 file_type: application/pdf
 learning_resource_types:
