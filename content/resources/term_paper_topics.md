@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of topic ideas for the term paper project.
-file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/69bc4ab316aaa3122ca65747771fbef8_term_paper_topics.pdf
+file: /ol-ocw-studio-app/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/69bc4ab316aaa3122ca65747771fbef8_term_paper_topics.pdf
 file_size: 25521
 file_type: application/pdf
 learning_resource_types:
