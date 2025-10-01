@@ -36,7 +36,7 @@ HANDOUTS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[World Nuclear Power Reactor Status](http://www.world-nuclear.org/info/reactors.html)
+{{% resource_link "41a03468-7011-404a-a251-9d50505091a5" "World Nuclear Power Reactor Status" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
